@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Application level Controller
  *
@@ -32,6 +33,6 @@
  */
 class AppController extends Controller {
 
-	var $components = array('Auth', 'Session', 'RequestHandler');
+	var $components = array('Auth', 'Session');
 
 }
