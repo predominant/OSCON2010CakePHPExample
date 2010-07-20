@@ -1,0 +1,5 @@
+/config/database.php
+/tmp/cache/models/*
+/tmp/cache/persistent/*
+/tmp/cache/views/*
+/tmp/logs/*.log
